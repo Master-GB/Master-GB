@@ -31,7 +31,7 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE](www.https://gihan-bandara.com).
+- :boom: You can visit <a href="https://gihan-bandara.com" target="_blank">MY WEBSITE</a>.
 <br>
 
 
@@ -100,20 +100,9 @@
 	&emsp;
 	<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"></a>
 &emsp;
-<!-- Vite -->
 <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white"></a>
 &emsp;
-<!-- React Native -->
-<a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=plastic&logo=react&logoColor=black"></a>
-&emsp;
-
-<!-- Angular (Basic) -->
-<a href="#"><img alt="Angular (Basic)" src="https://img.shields.io/badge/Angular%20(Basic)-DD0031?style=plastic&logo=angular&logoColor=white"></a>
-&emsp;
-
-<!-- Tailwind CSS -->
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"></a>
-
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -126,25 +115,17 @@
   &emsp;
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
 &emsp;
-
-<!-- Jira -->
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"></a>
 &emsp;
-
-<!-- Figma -->
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
 &emsp;
-
-<!-- Unity Hub -->
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white"></a>
 &emsp;
-
-<!-- Docker -->
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></a>
 &emsp;
-
-<!-- Kubernetes -->
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"></a>
+&emsp;
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=atlassian&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -168,32 +149,21 @@
 	&emsp;
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white"></a>
 &emsp;
-
-<!-- Node.js -->
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"></a>
 
 </p>
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/database.gif?raw=true" width="50px"> </picture> Databases
+ ### <picture> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Database.gif" width="50px"> </picture> Databases
  
 <p align="center">
   &emsp;
-   <!-- MongoDB -->
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"></a>
 &emsp;
-
-<!-- MySQL -->
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"></a>
 &emsp;
-
-<!-- Firebase -->
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"></a>
 &emsp;
-
-
-<!-- Supabase -->
 <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white"></a>
-;
 </p>
 
 <br> 
