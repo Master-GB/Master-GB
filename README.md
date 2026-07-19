@@ -115,7 +115,7 @@
   &emsp;
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"></a>
+<a href="#"><img alt="Jira Software" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=plastic&logo=jira&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
 &emsp;
@@ -124,8 +124,6 @@
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"></a>
-&emsp;
-<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=atlassian&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
