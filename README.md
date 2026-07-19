@@ -115,8 +115,6 @@
   &emsp;
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="Jira Software" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=plastic&logo=jira&logoColor=white"></a>
-&emsp;
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white"></a>
@@ -151,7 +149,7 @@
 
 </p>
 
- ### <picture> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Database.gif" width="50px"> </picture> Databases
+### <picture> <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="50px"> </picture> Databases
  
 <p align="center">
   &emsp;
